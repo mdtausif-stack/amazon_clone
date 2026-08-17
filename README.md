@@ -1,3 +1,3 @@
 # project 1
 
-add amazon colone
+add amazon colone.
